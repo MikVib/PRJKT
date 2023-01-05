@@ -1,0 +1,214 @@
+/* Desktop */
+@media screen and (max-width:1200px) {
+    .container {
+        max-width: 992px;
+    }
+}
+
+/* Desktop */
+
+/* IPAD-PRO */
+
+@media screen and (max-width:1024px) {
+    .container {
+        max-width: 816px;
+    }
+
+   
+
+
+    .elka{
+        background-image: none;
+    }
+}
+
+/* IPAD-PRO */
+
+/* Планшеты и нэтбуки */
+
+@media screen and (max-width:992px) {
+    .container {
+        max-width: 768px;
+    }
+    
+    .elka{
+        background-image: none;
+    }
+
+    .promotions{
+        height: 90vh;
+    }
+}
+
+/* Планшеты и нэтбуки */
+
+/* IPAD AIR и Galaxy Tab  */
+
+@media screen and (max-width:820px) {
+    .mobile-btn {
+        display: flex;
+        align-items: center;
+    }
+
+    .nav {
+        position: fixed;
+        right: 0;
+        top: -200%;
+
+
+        height: 80%;
+        width: 80%;
+        border-bottom-left-radius: 20%;
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        row-gap: 30px;
+        background-color: black;
+        transition: .5s;
+        z-index: 3;
+    }
+
+    .nav li {
+        font-size: 40px;
+    }
+
+    .show-nav {
+        top: 0;
+    }
+
+    .cover__wrap{
+        margin: 0 auto;
+        width: 80%;
+    }
+
+    .cover__wrap__prom{
+        /* background-color: rgba(255, 255, 255, 0.874); */
+        padding: 30px 70px;
+    }
+    .elka{
+
+        background-image: none;
+    }
+
+    .modal{
+        width: 90%;
+    }
+}
+
+/* IPAD */
+@media screen and (max-width:768px) {
+    .container {
+        max-width: 576px;
+    }
+
+    
+
+    .modal{
+        width: 90%;
+    }
+
+
+}
+
+/* IPAD */
+
+/* 768-576 */
+@media screen and (max-width:767px) {
+    .container {
+        max-width: 574px;
+    }
+
+    #main h1 {
+        font-size: 24px;
+    }
+
+   
+
+    .promotions{
+        height: 90vh;
+    }
+
+    .modal{
+        width: 90%;
+    }
+
+
+}
+/* 770-576 */
+
+
+/* Mobiles */
+@media screen and (max-width:576px) {
+    .container {
+        max-width: 356px;
+    }
+
+    #main h1 {
+        font-size: 26px;
+    }
+
+    .promotions{
+
+        background-image: none;
+    }
+    .elka{
+
+        background-image: none;
+    }
+
+    .promotions{
+        height: 90vh;
+    }
+
+    .modal{
+        width: 100%;
+    }
+
+    .categories__choise{
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .row {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+}
+
+/* Mobiles */
+
+
+/* iphone 13 */
+@media screen and (max-width:375px) {
+    .container {
+        max-width: 295px;
+    }
+
+    #main h1 {
+        font-size: 24px;
+    }
+
+
+    .promotions{
+
+        background-image: none;
+    }
+    .elka{
+
+        background-image: none;
+    }
+
+    .promotions{
+        height: 90vh;
+    }
+
+    .modal{
+        width: 100%;
+    }
+
+}
+
+/* iphone 13 */

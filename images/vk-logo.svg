@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="700"
+   height="700"
+   viewBox="0 0 700 700"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="vk-logo.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="G:\Users\suitedoalex\sites\vk-logo-0.png"
+   inkscape:export-xdpi="561.73712"
+   inkscape:export-ydpi="561.73712">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="0.40972222"
+     inkscape:cx="473.73486"
+     inkscape:cy="371.5719"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g6" />
+  <g
+     id="g6"
+     style="fill:none;fill-rule:evenodd"
+     transform="translate(0,664)">
+    <path
+       d="m 1073.3513,-606.40537 h 196.278 c 179.2103,0 221.8795,42.66915 221.8795,221.8795 v 196.27799 c 0,179.2103512 -42.6692,221.879451 -221.8795,221.879451 h -196.278 c -179.21038,0 -221.87951,-42.6691298 -221.87951,-221.879451 v -196.27801 c 0,-179.21035 42.66913,-221.87946 221.87951,-221.87948 z"
+       id="path2"
+       inkscape:connector-curvature="0"
+       style="fill:#4986cc;stroke-width:17.77880478"
+       inkscape:export-filename="G:\Users\suitedoalex\sites\vk-logo-4.png"
+       inkscape:export-xdpi="59.996532"
+       inkscape:export-ydpi="59.996532" />
+    <path
+       d="m 1375.0576,-393.98425 c 2.9513,-9.7072 0,-16.85429 -14.1342,-16.85429 h -46.6693 c -11.8763,0 -17.3521,6.16927 -20.3212,12.97854 0,0 -23.7347,56.82106 -57.3544,93.74763 -10.8806,10.66728 -15.8232,14.08081 -21.7613,14.08081 -2.969,0 -7.2715,-3.39577 -7.2715,-13.12075 v -90.83194 c 0,-11.66288 -3.4491,-16.85429 -13.3341,-16.85429 h -73.3553 c -7.4138,0 -11.8763,5.40476 -11.8763,10.54286 0,11.0406 16.8188,13.60078 18.5433,44.67814 v 67.52388 c 0,14.80973 -2.7202,17.49433 -8.6583,17.49433 -15.8231,0 -54.3143,-57.08773 -77.16,-122.40705 -4.4447,-12.71185 -8.9427,-17.83214 -20.8723,-17.83214 h -46.68718 c -13.3341,0 -16.0009,6.16925 -16.0009,12.97852 0,12.12515 15.8232,72.35973 73.69318,152.02656 38.58,54.40315 92.8942,83.89819 142.3726,83.89819 29.6729,0 33.3353,-6.54262 33.3353,-17.83216 v -41.12238 c 0,-13.10297 2.809,-15.71646 12.214,-15.71646 6.9338,0 18.7922,3.41353 46.4916,29.63728 31.6463,31.09512 36.8555,45.03372 54.6698,45.03372 h 46.6694 c 13.3341,0 20.0189,-6.54262 16.1787,-19.46781 -4.2313,-12.88962 -19.3433,-31.57515 -39.38,-53.74532 -10.8807,-12.62294 -27.2016,-26.22375 -32.1441,-33.03302 -6.9338,-8.72941 -4.9603,-12.62294 0,-20.39227 0,0 56.8566,-78.68897 62.7947,-105.41058 z"
+       id="path4"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke-width:17.77880478"
+       inkscape:export-filename="G:\Users\suitedoalex\sites\vk-logo-4.png"
+       inkscape:export-xdpi="59.996532"
+       inkscape:export-ydpi="59.996532" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#4986cc;fill-opacity:1;stroke-width:19.01340485"
+       d="m 567.69877,-429.06912 c 3.15618,-10.38133 0,-18.0247 -15.11579,-18.0247 h -49.91013 c -12.70096,0 -18.55706,6.59763 -21.73232,13.87977 0,0 -25.38286,60.76685 -61.33724,100.25768 -11.63627,11.40806 -16.92197,15.05863 -23.27242,15.05863 -3.17519,0 -7.77644,-3.63156 -7.77644,-14.0319 v -97.13948 c 0,-12.47278 -3.68869,-18.0247 -14.26014,-18.0247 h -78.44923 c -7.92857,0 -12.70097,5.78005 -12.70097,11.27491 0,11.80736 17.98666,14.54527 19.83094,47.78071 v 72.21293 c 0,15.83815 -2.9091,18.70918 -9.25948,18.70918 -16.92197,0 -58.08598,-61.05206 -82.51817,-130.90731 -4.75337,-13.59458 -9.56381,-19.07042 -22.32175,-19.07042 h -49.92915 c -14.26014,0 -17.11213,6.59763 -17.11213,13.87977 0,12.96714 16.92197,77.38454 78.81059,162.58363 41.25909,58.18101 99.34506,89.72424 152.25931,89.72424 31.73343,0 35.65018,-6.99691 35.65018,-19.07043 v -43.978 c 0,-14.01288 3.00405,-16.80786 13.0622,-16.80786 7.41521,0 20.09716,3.65057 49.71998,31.69536 33.84387,33.25443 39.41486,48.16093 58.46622,48.16093 h 49.91026 c 14.26,0 21.40913,-6.99691 17.30216,-20.81966 -4.5252,-13.78473 -20.68653,-33.76783 -42.11468,-57.47752 -11.63621,-13.49953 -29.09043,-28.04479 -34.37631,-35.32694 -7.41508,-9.33557 -5.30458,-13.4995 0,-21.80835 0,0 60.80491,-84.15334 67.15549,-112.73048 z"
+       id="path4-7"
+       inkscape:export-filename="G:\Users\suitedoalex\sites\vk-logo-5.png"
+       inkscape:export-xdpi="84.149391"
+       inkscape:export-ydpi="84.149391" />
+  </g>
+</svg>
