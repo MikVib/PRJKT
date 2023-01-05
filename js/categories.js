@@ -1,22 +1,13 @@
 const categoriesGlobal = () => {
 
-
-
-    // const obj = {
-    //     burgers:[{},{}],
-    //     pizzas:[{},{}],
-    //     drinks:[{},{}]
-    // }
-
-
     const data = {
 
 
         Столовые_группы: [
             {
-                name:'Столовая группа: Стол Burn Cedar + Silver Velutto',
-                img:'../images/furniture/group.png',
-                price: 70000,
+                name:'Столовая группа: Стол Burn Cedar + стул Silver Velutto',
+                img:'./images/furniture/group.png',
+                price: '70000 руб.',
                 material: 'Велюр / Металл / МДФ',
                 category: 'Столовые группы',
             },
@@ -24,19 +15,18 @@ const categoriesGlobal = () => {
         Стулья: [
             {
                 name:'Стул B600 SMOKE VL17 BK',
-                img:'../images/furniture/8ujpfj3_3.jpg',
+                img:'./images/furniture/8ujpfj3_3.jpg',
                 price: '9505 руб.',
                 material: 'Велюр / Металл',
                 category: 'Стулья'
             },
             
         ],
-        
         Столы: [
             
             {
                 name:'Стол ROVENA 200 WHITE OAK CER',
-                img:'../images/furniture/8ujpfj3_4-1.jpg',
+                img:'./images/furniture/8ujpfj3_4-1.jpg',
                 price: '70000 руб.',
                 category: 'Столы'
             },
