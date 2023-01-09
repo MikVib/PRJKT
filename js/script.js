@@ -2,7 +2,7 @@
 window.onscroll = () => scrollHeader();
 
 const scrollHeader = () => {
-    if (document.documentElement.scrollTop > 100 || document.body.scrollTop > 100) {
+    if (document.documentElement.scrollTop > 10 || document.body.scrollTop > 10) {
         document.querySelector('header').classList.add('header-fixed')
     } else {
         document.querySelector('header').classList.remove('header-fixed')
@@ -30,7 +30,7 @@ const swiperTwo = new Swiper(".secondSwiper", {
     //     delay: 3000,
     //     disableOnInteraction: false,
     // },
-    
+    slideToClickedSlide:true,
     mousewheel: {
         invert: true,
     },

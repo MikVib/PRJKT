@@ -40,7 +40,6 @@
     background: lightgrey;
     display: flex;
     justify-content: space-between;
-    align-items: center;
     padding: 0 10px;
     height: 10%;
 }
@@ -53,8 +52,27 @@
     margin: 0 auto;
     width: 50%;
     height: 90%;
+    caret-color: #A85748;
 }
 
-.hideContent {
+.hideModalContent {
     display: none;
+}
+
+.modalContent input, .modalContent button {
+    width: 100%;
+    padding: 10px 0;
+}
+
+.modalContent input {
+    padding: 10px 0 10px 10px;
+}
+
+
+.thankYou {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80%;
 }

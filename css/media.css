@@ -14,12 +14,6 @@
         max-width: 816px;
     }
 
-   
-
-
-    .elka{
-        background-image: none;
-    }
 }
 
 /* IPAD-PRO */
@@ -31,12 +25,12 @@
         max-width: 768px;
     }
     
-    .elka{
+    .promotions{
         background-image: none;
     }
 
     .promotions{
-        height: 90vh;
+        height: 100vh;
     }
 }
 
@@ -86,14 +80,24 @@
     .cover__wrap__prom{
         /* background-color: rgba(255, 255, 255, 0.874); */
         padding: 30px 70px;
+        width: 80%;
     }
-    .elka{
 
+    .promotions{
         background-image: none;
+        height: auto;
     }
 
     .modal{
         width: 90%;
+    }
+
+    .row{
+        justify-content: center;
+    }
+
+    .col-4{
+        width: 50%;
     }
 }
 
@@ -103,7 +107,11 @@
         max-width: 576px;
     }
 
-    
+    .cover__wrap__prom{
+        background-color: rgba(255, 255, 255, 0.874);
+        padding: 30px 70px;
+        width: 80%;
+    }
 
     .modal{
         width: 90%;
@@ -124,10 +132,12 @@
         font-size: 24px;
     }
 
-   
-
     .promotions{
-        height: 90vh;
+        height: 100vh;
+        background-image: none;
+    }
+    .cover__wrap__prom{
+        width: 100%;
     }
 
     .modal{
@@ -135,6 +145,12 @@
     }
 
 
+}
+
+@media screen and (max-width:570px) {
+    #promotions {
+        height: 70vh;
+    }
 }
 /* 770-576 */
 
@@ -149,17 +165,21 @@
         font-size: 26px;
     }
 
-    .promotions{
+    /* .swiper__top{
+        margin-top: -587px;
+    } */
 
-        background-image: none;
-    }
     .elka{
 
         background-image: none;
     }
 
-    .promotions{
-        height: 90vh;
+    #promotions{
+        background-image: none;
+    }
+
+    .cover__wrap__prom{
+        margin-top: 50px;
     }
 
     .modal{
@@ -176,6 +196,14 @@
         gap: 10px;
     }
 
+    .col-4{
+        width: 95%;
+    }
+
+    .cover__wrap__prom{
+        padding: 10px;
+    }
+
 }
 
 /* Mobiles */
@@ -184,29 +212,26 @@
 /* iphone 13 */
 @media screen and (max-width:375px) {
     .container {
-        max-width: 295px;
+        max-width: 100%;
     }
 
     #main h1 {
         font-size: 24px;
     }
 
-
-    .promotions{
-
-        background-image: none;
-    }
-    .elka{
-
-        background-image: none;
-    }
-
-    .promotions{
-        height: 90vh;
-    }
-
+    /* .swiper__top{
+        margin-top: -477px;
+    } */
     .modal{
         width: 100%;
+    }
+
+    .accordion__content{
+        padding: 0;
+    }
+
+    .col-4{
+        width:100%;
     }
 
 }

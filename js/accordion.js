@@ -57,10 +57,23 @@ contentRender(data)
 
 const accordion = () => {
     const accordion = document.querySelectorAll('.accordion__wrap')
+    // const act = document.querySelector('.accordion__active')
+    // const wrap = = document.querySelector('.accordion__wrap')
     accordion.forEach(el => {
         el.addEventListener('click', () => {
+            
+            
             el.classList.toggle('accordion__active')
+            
+            if(el.nextElementSibling = document.querySelector('.accordion__active') && el.nextElementSibling !== null){
+            el.nextElementSibling.classList.remove('accordion__active');
+        }
+            if(el.previousElementSibling = document.querySelector('.accordion__active') && el.previousElementSibling !== null){
+                el.previousElementSibling.classList.remove('accordion__active');
+            }
+            // console.log(el.nextElementSibling, el.previousElementSibling);
         })
+        
     })
 }
 
